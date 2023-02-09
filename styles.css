@@ -1,0 +1,93 @@
+body {
+  background-image: URL(https://drive.google.com/uc?id=1Yd2kPA05epdaEJG4XP6SSw3Z-NCa2az9);
+  background-size: 100%;
+  font-family: sans-serif;
+  padding: 20px;
+
+  <div style="width: 100%; height: 100%;">
+  <img src="your-image-source.jpg" style="width: 100%; height: 100%; object-fit: cover;" alt="Your Image">
+</div>
+
+}
+
+h1 {
+  font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 15px;
+  text-align: center;
+  font-family: Impact, serif;
+}
+
+h2 {
+  font-size: 30px;
+  text-align: center;
+  font-family: Impact, serif;
+}
+
+.established {
+  font-style: italic;
+}
+
+p {
+  text-align: center;
+}
+
+.menu {
+  width: 80%;
+  background-color: burlywood;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  max-width: 500px;
+}
+
+hr {
+  height: 2px;
+  background-color: brown;
+  border-color: brown;
+}
+
+.bottom-line {
+  margin-top: 25px;
+}
+
+.item p {
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 18px;
+}
+
+.flavor, .dessert, .meat, .snacks, .juice, .sauce {
+  text-align: left;
+  width: 75%;
+}
+
+.price {
+  text-align: right;
+  width: 25%;
+}
+
+footer {
+  font-size: 14px;
+}
+
+a {
+  color: brown;
+}
+
+a:visited {
+  color: brown;
+}
+
+a:hover {
+  color: black;
+}
+a:active {
+  color: hsl(34, 57%, 92%);
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
